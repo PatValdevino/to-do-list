@@ -1,4 +1,4 @@
-## To-Do List com HTML, CSS e Javascript - Desafio Javascript do Bootcamp - Acrescentei com ajuda de outras aulas a Integração com Local Storage.
+## To-Do List com HTML, CSS e Javascript - Desafio Javascript do Bootcamp - Acrescentei com ajuda de outras aulas, a estilização da página e a Integração com Local Storage.
 
 ##
 
